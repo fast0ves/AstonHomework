@@ -1,0 +1,23 @@
+
+…
+java:S1854
+"=Remove this useless assignment to local variable "fifthBook".(´ê®ÿÿÿÿÿ8ªÏÖã2J$a8432341-2e4f-4845-b179-ac967e448cf7
+
+java:S1854	"<Remove this useless assignment to local variable "fourBook".(ô‰¹8±ÐÏÖã2J$6da26751-fe5e-4de7-81b5-d36fda14b708
+…
+java:S1854"=Remove this useless assignment to local variable "thirdBook".(Ñ²Á°úÿÿÿÿ8±ÐÏÖã2J$709ebc8e-f91c-45cd-8ebc-fb077753d42a
+
+java:S1854">Remove this useless assignment to local variable "secondBook".(õÆÖû8±ÐÏÖã2J$3df23fa7-b68d-4978-9c1b-3ab8d95d75bb
+…
+java:S1854"=Remove this useless assignment to local variable "firstBook".(ôïÀÿÿÿÿÿ8€ÐÖã2J$9e26e2ce-9de9-452a-8945-8fff803ef1b0
+v
+java:S1481".Remove this unused "firstBook" local variable.(ôïÀÿÿÿÿÿ8ß›ÑÖã2J$2b6c893d-eb48-49fc-8095-d542324b527c
+r
+java:S1481"/Remove this unused "secondBook" local variable.(õÆÖû8ß›ÑÖã2J$7164b295-6f42-479f-983f-0612180ec695
+v
+java:S1481".Remove this unused "thirdBook" local variable.(Ñ²Á°úÿÿÿÿ8„ÍÑÖã2J$d7e9d08f-ba7d-4834-a8f7-bdc2f0707c72
+p
+java:S1481	"-Remove this unused "fourBook" local variable.(ô‰¹8Ã‡ÒÖã2J$1d643270-c0f6-4c24-be26-eb7cb040cda0
+v
+java:S1481
+".Remove this unused "fifthBook" local variable.(´ê®ÿÿÿÿÿ8ÃþÒÖã2J$1bde354b-7a43-420b-955e-5b0b72d0c756
