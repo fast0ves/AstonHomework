@@ -1,52 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-?
-src/Mammal.java,a\6\a600a09813f1a7c17bdadd40f7aa1a6d055f7372
->
-src/Spine.java,7\7\773deb3f498975dc776e179b1cd44209ad88d5a9
-=
-src/Bear.java,c\a\ca0bb4d7a75aaeafba472ec00134274402f6af83
-<
-src/Cat.java,1\7\1708fb67532b6ed9405f6cccaf3e13bb326ae653
-=
-src/Fish.java,b\a\ba02d4efb9faef3b210cef76b9ada428fd645df5
->
-src/Whale.java,7\3\735c3ab31cf9219f90ab7ff2e69c1fc28678b228
-?
-src/Animal.java,c\9\c9d1c15b1c4ef76bfd08d518b5e833a99f5f7b92
-F
-src/Mammal/Mammal.java,3\7\373cfd26257259ab17fee3471686313424c8808f
-F
-src/Mammal/Animal.java,0\0\000269f15a14cd854ef4136e04375cf79c714127
-D
-src/Mammal/Bear.java,d\0\d0b93089e8fcfebbcf16715ebae4f13eda3cce01
-D
-src/Mammal/Fish.java,a\c\acb53e352313587cfa5bd1ecbfbdd3e37a2f43ff
-C
-src/Mammal/Cat.java,5\5\55534219ba69b5a763f8f9152dbeb0fd0c16f3c3
-E
-src/Mammal/Spine.java,5\8\58a992a03bd8ccfd60d89a5bb93e272edd463315
-E
-src/Mammal/Whale.java,5\8\58184d757b1e400e000317018fc451df81d54504
-F
-src/Mammal/Watery.java,4\c\4c0a18f4bad2e5c1938fc00aa4feab6b790ea1d5
-D
-src/Mammal/Wool.java,f\f\ff59b91bdd293ef3ee522fe5e05618412e4e1856
-Z
-*src/TransportVehicle/TransportVehicle.java,d\2\d2812a4b7fd02a17911fef0d563563649596f814
-O
-src/TransportVehicle/Plane.java,8\e\8e483757e0ff6993b803586810010cf163a191d2
-T
-$src/TransportVehicle/Helicopter.java,8\3\8331191a1cfac5011e7fba661e4c40a3a8d8e8d8
-N
-src/TransportVehicle/Taxi.java,2\b\2b9b628114977aa21d080aa828ba4482ca1c666c
-O
-src/TransportVehicle/Truck.java,f\a\facaf82affa8ef5d8b566084d492e54d1b7f5d4f
-S
-#src/TransportVehicle/Speedboat.java,b\9\b930ea8e106cbe812bb16ba05612a277462e5297
-P
- src/TransportVehicle/Tanker.java,2\7\2777acecd1151b854739d8267797d695eb9536bd
 j
 :src/TransportVehicle/abstractClasses/TransportVehicle.java,7\b\7b1f7af74f267f8190efa5d129fcf564b345e69f
 \
@@ -71,8 +23,6 @@ W
 'src/TransportVehicle/classes/Truck.java,0\1\012e3d0c56e25f804eb63cad9ecbb220cb297feb
 V
 &src/Mammal/abstractClasses/Mammal.java,f\2\f2c0ddb79f2e1ad0284573afc0d7fe8f133d163e
-N
-src/Mammal/classes/Animal.java,f\3\f34857ed24ade7bd046bd5d3136c07026c11231b
 L
 src/Mammal/classes/Bear.java,f\9\f94eff33423c41b1e4b43781fa026f089c340470
 K
@@ -83,3 +33,34 @@ M
 src/Mammal/classes/Whale.java,7\3\730e3a4da7cff16ffa90d7ef54f597e241cbdcb1
 V
 &src/Mammal/abstractClasses/Animal.java,c\f\cf6e51ecc3f09cc150d57fbc48f22af1909cd8d7
+P
+ src/Mammal/interfaces/Spine.java,e\2\e207e94b1779f87b0acacc137bb18e718091bea9
+Q
+!src/Mammal/interfaces/Watery.java,e\c\ec29d464d0e64e52d6921185f1aae4012d2a98ce
+O
+src/Mammal/interfaces/Wool.java,8\4\84c79565513297e8d815cdee211f9859934dc7e8
+J
+src/MyCustomException.java,8\d\8d5452a6ad867ee596274728be30c3b4a3c36285
+D
+src/ReaderClass.java,f\7\f7572317d2247440668fb74fefa1c3889801488b
+D
+src/WriterClass.java,5\3\53736b070b3d27b7af967f5cbb7528f8fac089b9
+H
+src/CustomException.java,6\b\6b6ac80de49260c159f7015c86ab14355060b04e
+:
+
+Phrase.txt,4\6\46e9ca6913fbdefbbe179db01ab6e62acd4b5582
+D
+Homework_Module1.iml,b\1\b10646296aa2b1553737aa078a4b3da748e36427
+@
+src/Handler.java,6\9\690f991812ab96451441523e5cb53f9c60e2ff44
+4
+file,9\7\971c419dd609331343dee105fffd0f4608dc0bf2
+R
+"src/Exception/CustomException.java,6\0\608cc5fba15b7bb48cdac3c7a2e5d6fb4fbe4921
+H
+src/Handler/Handler.java,0\2\02c432750733bcd402148bc6ea36b38347d28a0c
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
