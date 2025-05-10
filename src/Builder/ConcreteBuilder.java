@@ -1,0 +1,25 @@
+package Builder;
+
+public class ConcreteBuilder implements Builder {
+    private Product product = new Product();
+
+    @Override
+    public void buildPartA() {
+        product.setPartA("PartA built");
+    }
+
+    @Override
+    public void buildPartB() {
+        product.setPartB("PartB built");
+    }
+
+    @Override
+    public void buildPartC() {
+        product.setPartC("PartC built");
+    }
+
+    @Override
+    public Product getResult() {
+        return product;
+    }
+}
